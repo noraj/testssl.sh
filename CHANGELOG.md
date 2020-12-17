@@ -1,6 +1,10 @@
 
 ## Change Log
 
+### 3.2
+
+- Empty changelog
+
 ### Features implemented / improvements in 3.1dev
 
 * Extend Server (cipher) preference: always now in wide mode instead of running all ciphers in the end (per default)
